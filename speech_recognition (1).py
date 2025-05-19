@@ -6,8 +6,6 @@ import speech_recognition as sr
 from google.colab import files
 uploaded = files.upload()
 
-"""# New Section"""
-
 # Prepare the recognizer and load the audio file
 audio_file = next(iter(uploaded))  # Get the uploaded file name
 recognizer = sr.Recognizer()
