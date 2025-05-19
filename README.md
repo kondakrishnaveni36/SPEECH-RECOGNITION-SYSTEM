@@ -11,6 +11,7 @@ ARTIFICIAL INTELLIGENCE MARKUP LANGUAGE
 DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
+
 As part of the CodTech AIML Internship, Task 2 focuses on building a Speech Recognition System using Python. The aim of this project is to convert spoken audio into written text by leveraging machine learning techniques and publicly available speech recognition tools. This project is a great example of how artificial intelligence can be applied to solve real-world problems such as transcription, voice control, and accessibility for differently-abled users.
 
 The project starts by allowing the user to upload an audio file, usually in .wav format. The system processes the uploaded audio using the speech_recognition library — a powerful and beginner-friendly Python package that supports multiple backends, including Google Web Speech API. The uploaded audio is read and passed to the recognizer which listens to the content and attempts to convert the speech into human-readable text.
