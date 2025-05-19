@@ -27,3 +27,5 @@ This project has several real-world applications. It can be used in voice assist
 In summary, Task 2 provided a hands-on opportunity to apply machine learning and NLP concepts to create a speech-based application. It helped build familiarity with speech-to-text technologies and cloud-based development environments. The project is simple, yet powerful, and lays the groundwork for more advanced voice-interactive systems. Completing this task strengthened both my coding skills and my understanding of how AI can be used to solve real-world problems through automation and accessibility.
 
 OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/24303a4a-c4bc-4c13-b6d1-b11fcb481d3b)
